@@ -1,1 +1,2 @@
 # Exploratoty-Data-Analysis
+In this project we have performed Exploratory Data Analysis on Kaspersky Antivirus Sales for August 2019 using Python(Jupyter) for Data Pre-processing/Data Cleaning and Tableau for Data Visualization. After visualizing the State Wise, City Wise and Postal Code Wise Sales using the Map and Symbol Map chart from Tableau, we gained insights on which places showed the highest and the lowest Sales and have mentioned the same in the project report.
